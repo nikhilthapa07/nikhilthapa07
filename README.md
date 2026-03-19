@@ -1,7 +1,16 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=FFFFFF&lines=Hey+im+Nikhil-Thapa+Ay!)](https://git.io/typing-svg)
 
 
-Hey there! I'm a **AI-focused** full-stack software engineer with **5+ years** of experience building scalable web platforms and intelligent systems. I have expertise in JavaScript ecosystems (React, Vue, Node.js) combined with hands-on experience designing **RAG pipelines, AI agents, and knowledge-driven applications**. I am passionate about building real-world AI-powered products that bridge modern LLM capabilities with robust backend engineering.
+Hey there 👋
+
+I'm a full-stack software engineer focused on building **AI-powered applications**.
+
+- 💻 5+ years with JavaScript (React, Vue, Node.js)
+- 🤖 Building with LLMs: RAG pipelines, AI agents, knowledge systems
+- 🚀 Interested in real-world AI products, not just demos
+- 🧠 Currently exploring: WebRTC
+
+I enjoy turning complex ideas into practical, production-ready systems.
 
 <p align="center">
   <a href="https://skillicons.dev">
