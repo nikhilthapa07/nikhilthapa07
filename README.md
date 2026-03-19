@@ -1,8 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=FFFFFF&lines=Hey+im+Nikhil-Thapa+Ay!)](https://git.io/typing-svg)
 
 
-Hey there 👋
-
+Hey there 👋<br/>
 I'm a full-stack software engineer focused on building **AI-powered applications**.
 
 - 💻 5+ years with JavaScript (React, Vue, Node.js)
