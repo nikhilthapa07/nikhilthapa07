@@ -13,7 +13,7 @@ I enjoy turning complex ideas into practical, production-ready systems.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,java,go,c,react,vue,nodejs,express,nextjs,nuxtjs,nestjs,mysql,postgres,mongo,redis,docker,rabbitmq,tailwind,md,figma,githubactions,aws&perline=13" />
+    <img src="https://skillicons.dev/icons?i=ts,js,python,java,c,lua,react,vue,nextjs,nuxtjs,nodejs,express,nestjs,mysql,postgres,mongo,redis,prisma,docker,rabbitmq,tailwind,scss,git,githubactions,aws,docker&perline=13" />
   </a>
 </p>
 
