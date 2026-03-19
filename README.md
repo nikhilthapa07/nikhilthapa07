@@ -1,13 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=FFFFFF&lines=Hey+im+Nikhil-Thapa+Ay!)](https://git.io/typing-svg)
 
 
-Hey there! I'm a software engineer, with over three years of hands-on experience in full-stack development. I'm passionate about building scalable web applications, optimizing performance, and enhancing user experiences. Whether it's crafting sleek front-end interfaces or designing robust back-end systems, I'm always up for the challenge.
-
-JavaScript, TypeScript, and Node.js are my go-to tools for bringing projects to life, while my expertise in databases like MongoDB and PostgreSQL helps ensure smooth data handling and performance. Along the way, I've developed strong skills in data structures, algorithms, and clean, maintainable code.
-
-A continuous learner, I'm always exploring new technologies and best practices to stay on the cutting edge of development. I'm driven by a love for problem-solving, and I thrive in environments that challenge me to innovate and improve.
-
-Excited to take on new challenges, I'm ready to contribute my expertise and passion to meaningful projects. My journey in tech is just getting started, and I can't wait to see what the future holds!
+Hey there! I'm a **AI-focused** full-stack software engineer with **5+ years** of experience building scalable web platforms and intelligent systems. I have expertise in JavaScript ecosystems (React, Vue, Node.js) combined with hands-on experience designing **RAG pipelines, AI agents, and knowledge-driven applications**. I am passionate about building real-world AI-powered products that bridge modern LLM capabilities with robust backend engineering.
 
 <p align="center">
   <a href="https://skillicons.dev">
